@@ -1,0 +1,9 @@
+C:/Users/fifi0/ejercicios/ds-unidad-2-actividad-2-listasenlazadas-vale2430215/build/CMakeFiles/decodificador_prt7.dir
+C:/Users/fifi0/ejercicios/ds-unidad-2-actividad-2-listasenlazadas-vale2430215/build/CMakeFiles/package.dir
+C:/Users/fifi0/ejercicios/ds-unidad-2-actividad-2-listasenlazadas-vale2430215/build/CMakeFiles/package_source.dir
+C:/Users/fifi0/ejercicios/ds-unidad-2-actividad-2-listasenlazadas-vale2430215/build/CMakeFiles/edit_cache.dir
+C:/Users/fifi0/ejercicios/ds-unidad-2-actividad-2-listasenlazadas-vale2430215/build/CMakeFiles/rebuild_cache.dir
+C:/Users/fifi0/ejercicios/ds-unidad-2-actividad-2-listasenlazadas-vale2430215/build/CMakeFiles/list_install_components.dir
+C:/Users/fifi0/ejercicios/ds-unidad-2-actividad-2-listasenlazadas-vale2430215/build/CMakeFiles/install.dir
+C:/Users/fifi0/ejercicios/ds-unidad-2-actividad-2-listasenlazadas-vale2430215/build/CMakeFiles/install/local.dir
+C:/Users/fifi0/ejercicios/ds-unidad-2-actividad-2-listasenlazadas-vale2430215/build/CMakeFiles/install/strip.dir

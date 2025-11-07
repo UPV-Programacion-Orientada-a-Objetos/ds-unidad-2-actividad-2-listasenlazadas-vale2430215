@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\decodificador_prt7.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\decodificador_prt7.dir/objects.a @CMakeFiles\decodificador_prt7.dir\objects1.rsp
+C:\MinGW\bin\c++.exe -O3 -Wall -Wl,--whole-archive CMakeFiles\decodificador_prt7.dir/objects.a -Wl,--no-whole-archive -o decodificador_prt7.exe -Wl,--out-implib,libdecodificador_prt7.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\decodificador_prt7.dir\linkLibs.rsp
