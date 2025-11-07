@@ -56,7 +56,7 @@ set(CPACK_PACKAGE_NAME "DecodificadorPRT7")
 set(CPACK_PACKAGE_VERSION "1.0.0")
 set(CPACK_PACKAGE_DESCRIPTION_SUMMARY "Decodificador de Protocolo Industrial PRT-7")
 set(CPACK_PACKAGE_VENDOR "Universidad")
-set(CPACK_PACKAGE_CONTACT "tu_email@ejemplo.com")
+set(CPACK_PACKAGE_CONTACT "2430215@upv.edu.mx")
 
 if(WIN32)
     set(CPACK_GENERATOR "ZIP;NSIS")
